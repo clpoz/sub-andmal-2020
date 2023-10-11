@@ -214,14 +214,14 @@ def countXY(label,score,threshold):
     return FPR,TPR
 
 if __name__=='__main__':
-    trainset = AndMalDataset2('data/32/andmal_train.h5',is_Train=True)
-    testset = AndMalDataset2('data/32/andmal_test.h5', is_Train=False)
+    trainset = AndMalDataset2('data/1/andmal_train.h5',is_Train=True)
+    testset = AndMalDataset2('data/1/andmal_test.h5', is_Train=False)
     trainloader = DataLoader(dataset=trainset,shuffle=True,batch_size=32,num_workers=0)
     testloader = DataLoader(dataset=testset,shuffle=True,batch_size=32,num_workers=0)
 
     min_loss = 50
     max_acc = 0.90
-    model = models2.Model2(in_features=9503,out_features=1,in_channels=1,out_channels=128)
+    model = models.Model3(in_features=9503,out_features=12,in_channels=1,out_channels=128)
     model=model.cuda()
     #model = torch.load('model2.pth')
 
