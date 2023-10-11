@@ -1,0 +1,237 @@
+13500
+torch.Size([13500, 9503]) (13500,)
+1540
+torch.Size([1540, 9503]) (1540,)
+Accuracy on test set in 0: 69 %
+training epoch :0  loss: 587.2755  test_loss: 49.1786
+Accuracy on test set in 1: 71 %
+training epoch :1  loss: 373.9646  test_loss: 44.3274
+Accuracy on test set in 2: 75 %
+training epoch :2  loss: 327.4442  test_loss: 37.9662
+Accuracy on test set in 3: 77 %
+training epoch :3  loss: 301.8655  test_loss: 34.1327
+Accuracy on test set in 4: 77 %
+training epoch :4  loss: 283.6045  test_loss: 34.4346
+Accuracy on test set in 5: 78 %
+training epoch :5  loss: 269.0243  test_loss: 33.6549
+Accuracy on test set in 6: 79 %
+training epoch :6  loss: 257.9598  test_loss: 32.2467
+Accuracy on test set in 7: 80 %
+training epoch :7  loss: 248.4084  test_loss: 32.6845
+Accuracy on test set in 8: 81 %
+training epoch :8  loss: 239.0272  test_loss: 30.5425
+Accuracy on test set in 9: 80 %
+training epoch :9  loss: 233.7559  test_loss: 30.5399
+Accuracy on test set in 10: 80 %
+training epoch :10  loss: 225.1211  test_loss: 30.8528
+Accuracy on test set in 11: 81 %
+training epoch :11  loss: 220.5476  test_loss: 30.0488
+Accuracy on test set in 12: 81 %
+training epoch :12  loss: 215.2392  test_loss: 29.7058
+Accuracy on test set in 13: 82 %
+training epoch :13  loss: 212.2870  test_loss: 28.6335
+Accuracy on test set in 14: 81 %
+training epoch :14  loss: 207.6270  test_loss: 28.2840
+Accuracy on test set in 15: 82 %
+training epoch :15  loss: 202.8730  test_loss: 28.1220
+Accuracy on test set in 16: 81 %
+training epoch :16  loss: 200.7059  test_loss: 28.3127
+Accuracy on test set in 17: 82 %
+training epoch :17  loss: 197.9154  test_loss: 27.5552
+Accuracy on test set in 18: 82 %
+training epoch :18  loss: 192.8119  test_loss: 28.4788
+Accuracy on test set in 19: 82 %
+training epoch :19  loss: 189.4906  test_loss: 27.4744
+Accuracy on test set in 20: 82 %
+training epoch :20  loss: 186.9212  test_loss: 28.0791
+Accuracy on test set in 21: 82 %
+training epoch :21  loss: 184.9977  test_loss: 29.0459
+Accuracy on test set in 22: 82 %
+training epoch :22  loss: 183.7197  test_loss: 28.9928
+Accuracy on test set in 23: 83 %
+training epoch :23  loss: 180.5087  test_loss: 29.4220
+Accuracy on test set in 24: 83 %
+training epoch :24  loss: 180.1629  test_loss: 28.3449
+Accuracy on test set in 25: 83 %
+training epoch :25  loss: 176.4841  test_loss: 28.2000
+Accuracy on test set in 26: 83 %
+training epoch :26  loss: 175.2813  test_loss: 27.4449
+Accuracy on test set in 27: 84 %
+training epoch :27  loss: 171.6670  test_loss: 27.8148
+Accuracy on test set in 28: 82 %
+training epoch :28  loss: 169.5203  test_loss: 28.4679
+Accuracy on test set in 29: 83 %
+training epoch :29  loss: 168.6832  test_loss: 29.0750
+Accuracy on test set in 30: 83 %
+training epoch :30  loss: 165.8042  test_loss: 27.2660
+Accuracy on test set in 31: 83 %
+training epoch :31  loss: 166.8639  test_loss: 30.6478
+Accuracy on test set in 32: 83 %
+training epoch :32  loss: 164.4295  test_loss: 27.8179
+Accuracy on test set in 33: 82 %
+training epoch :33  loss: 164.8469  test_loss: 31.2139
+Accuracy on test set in 34: 83 %
+training epoch :34  loss: 162.2010  test_loss: 29.8836
+Accuracy on test set in 35: 83 %
+training epoch :35  loss: 160.1529  test_loss: 29.3275
+Accuracy on test set in 36: 82 %
+training epoch :36  loss: 157.7148  test_loss: 28.0833
+Accuracy on test set in 37: 83 %
+training epoch :37  loss: 156.0953  test_loss: 28.5496
+Accuracy on test set in 38: 82 %
+training epoch :38  loss: 155.6462  test_loss: 28.8728
+Accuracy on test set in 39: 83 %
+training epoch :39  loss: 152.5509  test_loss: 27.9040
+Accuracy on test set in 40: 82 %
+training epoch :40  loss: 152.3920  test_loss: 28.0421
+Accuracy on test set in 41: 82 %
+training epoch :41  loss: 150.7968  test_loss: 31.1088
+Accuracy on test set in 42: 83 %
+training epoch :42  loss: 151.5139  test_loss: 28.9031
+Accuracy on test set in 43: 83 %
+training epoch :43  loss: 148.4375  test_loss: 28.3427
+Accuracy on test set in 44: 83 %
+training epoch :44  loss: 146.6089  test_loss: 28.8392
+Accuracy on test set in 45: 83 %
+training epoch :45  loss: 146.8661  test_loss: 30.1443
+Accuracy on test set in 46: 84 %
+training epoch :46  loss: 146.2808  test_loss: 28.0756
+Accuracy on test set in 47: 83 %
+training epoch :47  loss: 143.2637  test_loss: 28.3395
+Accuracy on test set in 48: 84 %
+training epoch :48  loss: 142.9089  test_loss: 29.3376
+Accuracy on test set in 49: 83 %
+training epoch :49  loss: 144.1274  test_loss: 27.6240
+Accuracy on test set in 50: 84 %
+training epoch :50  loss: 140.4367  test_loss: 30.5907
+Accuracy on test set in 51: 83 %
+training epoch :51  loss: 140.8976  test_loss: 28.3621
+Accuracy on test set in 52: 83 %
+training epoch :52  loss: 140.3403  test_loss: 30.4739
+Accuracy on test set in 53: 84 %
+training epoch :53  loss: 140.5652  test_loss: 27.4814
+Accuracy on test set in 54: 84 %
+training epoch :54  loss: 138.5430  test_loss: 27.8975
+Accuracy on test set in 55: 83 %
+training epoch :55  loss: 135.4502  test_loss: 28.3885
+Accuracy on test set in 56: 84 %
+training epoch :56  loss: 137.1213  test_loss: 27.0852
+Accuracy on test set in 57: 83 %
+training epoch :57  loss: 135.0022  test_loss: 28.0981
+Accuracy on test set in 58: 84 %
+training epoch :58  loss: 133.5880  test_loss: 29.1207
+Accuracy on test set in 59: 82 %
+training epoch :59  loss: 133.1785  test_loss: 30.5699
+Accuracy on test set in 60: 83 %
+training epoch :60  loss: 133.1539  test_loss: 31.2634
+Accuracy on test set in 61: 84 %
+training epoch :61  loss: 131.9274  test_loss: 28.2437
+Accuracy on test set in 62: 83 %
+training epoch :62  loss: 131.0106  test_loss: 29.1255
+Accuracy on test set in 63: 83 %
+training epoch :63  loss: 129.6401  test_loss: 29.4129
+Accuracy on test set in 64: 84 %
+training epoch :64  loss: 130.5845  test_loss: 27.5577
+Accuracy on test set in 65: 85 %
+training epoch :65  loss: 128.0006  test_loss: 27.1948
+Accuracy on test set in 66: 84 %
+training epoch :66  loss: 129.1325  test_loss: 27.8801
+Accuracy on test set in 67: 85 %
+training epoch :67  loss: 127.7937  test_loss: 30.3758
+Accuracy on test set in 68: 84 %
+training epoch :68  loss: 127.4761  test_loss: 28.0444
+Accuracy on test set in 69: 83 %
+training epoch :69  loss: 125.8363  test_loss: 30.1647
+Accuracy on test set in 70: 85 %
+training epoch :70  loss: 126.2350  test_loss: 28.1377
+Accuracy on test set in 71: 84 %
+training epoch :71  loss: 126.1504  test_loss: 29.3513
+Accuracy on test set in 72: 84 %
+training epoch :72  loss: 125.5290  test_loss: 27.7656
+Accuracy on test set in 73: 84 %
+training epoch :73  loss: 124.3829  test_loss: 28.7776
+Accuracy on test set in 74: 84 %
+training epoch :74  loss: 124.7674  test_loss: 26.7943
+Accuracy on test set in 75: 84 %
+training epoch :75  loss: 121.5761  test_loss: 27.5372
+Accuracy on test set in 76: 84 %
+training epoch :76  loss: 123.2599  test_loss: 27.7279
+Accuracy on test set in 77: 84 %
+training epoch :77  loss: 122.1936  test_loss: 29.3670
+Accuracy on test set in 78: 82 %
+training epoch :78  loss: 122.2337  test_loss: 30.2542
+Accuracy on test set in 79: 85 %
+training epoch :79  loss: 121.0216  test_loss: 29.1575
+Accuracy on test set in 80: 84 %
+training epoch :80  loss: 119.6799  test_loss: 28.4243
+Accuracy on test set in 81: 83 %
+training epoch :81  loss: 118.9019  test_loss: 28.7534
+Accuracy on test set in 82: 85 %
+training epoch :82  loss: 121.4766  test_loss: 27.9609
+Accuracy on test set in 83: 85 %
+training epoch :83  loss: 117.0292  test_loss: 27.7386
+Accuracy on test set in 84: 84 %
+training epoch :84  loss: 117.9605  test_loss: 27.3622
+Accuracy on test set in 85: 84 %
+training epoch :85  loss: 116.8966  test_loss: 29.6889
+Accuracy on test set in 86: 84 %
+training epoch :86  loss: 114.8003  test_loss: 28.6063
+Accuracy on test set in 87: 83 %
+training epoch :87  loss: 115.0110  test_loss: 33.9802
+Accuracy on test set in 88: 85 %
+training epoch :88  loss: 115.6495  test_loss: 28.9914
+Accuracy on test set in 89: 84 %
+training epoch :89  loss: 114.2866  test_loss: 30.4995
+Accuracy on test set in 90: 84 %
+training epoch :90  loss: 115.5227  test_loss: 29.0218
+Accuracy on test set in 91: 84 %
+training epoch :91  loss: 114.2932  test_loss: 28.7893
+Accuracy on test set in 92: 84 %
+training epoch :92  loss: 112.7834  test_loss: 30.7148
+Accuracy on test set in 93: 85 %
+training epoch :93  loss: 113.1298  test_loss: 31.2200
+Accuracy on test set in 94: 85 %
+training epoch :94  loss: 112.9427  test_loss: 29.7184
+Accuracy on test set in 95: 83 %
+training epoch :95  loss: 111.5268  test_loss: 29.6550
+Accuracy on test set in 96: 84 %
+training epoch :96  loss: 112.8457  test_loss: 28.9348
+Accuracy on test set in 97: 83 %
+training epoch :97  loss: 111.8376  test_loss: 29.9219
+Accuracy on test set in 98: 84 %
+training epoch :98  loss: 110.7279  test_loss: 29.2866
+Accuracy on test set in 99: 85 %
+training epoch :99  loss: 110.4513  test_loss: 29.3032
+Accuracy on test set in 0: 85 %
+test loss:28.4385
+
+进程已结束，退出代码为 0
+
+[[164   6   0   1   0  15   1   6   1   1   0   5]
+ [  7  83   0   1   0   0   1   4   3   1   0   0]
+ [  0   0  62   4   5   0   3   2   0   0   3   1]
+ [  1   0   1  74   0   3  17   1   0   0   0   3]
+ [  0   0   4   0  49   3   1   0   0   2   0   1]
+ [  4   1   1   2   0  82   1   2   1   0   0   6]
+ [  0   0   2  10   0   0 133   0   0   1   4   0]
+ [ 20   3   0   3   1   2   0 256   0   1   2  12]
+ [  0   0   0   2   1   1   0   0  93   0   1   2]
+ [  2   1   1   0   0   1   0   0   0  94   0   1]
+ [  0   0   1   0   0   3  13   0   0   3  79   1]
+ [  1   0   1   3   0   6   0   1   5   5   1 127]]
+Accuracy: 0.84
+      precision   recall
+Adware : 0.82 0.82
+Backdoor : 0.88 0.83
+Banker : 0.85 0.78
+Dropper : 0.74 0.74
+FileInfector : 0.88 0.82
+PUA : 0.71 0.82
+Ransomware : 0.78 0.89
+Riskware : 0.94 0.85
+Scareware : 0.90 0.93
+SMS : 0.87 0.94
+Spy : 0.88 0.79
+Trojan : 0.80 0.85
+
+进程已结束，退出代码为 0
