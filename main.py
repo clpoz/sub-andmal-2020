@@ -175,9 +175,6 @@ def make_roc(label,score):
 
     X = [xy[0] for xy in XY]
     Y = [xy[1] for xy in XY]
-    for i in range(9999):
-        if Y[9999-i]<Y[9999-i-1]:
-            Y[9999-i-1]=Y[9999-i]
 
     auc = 0
     for i in range(1,10000):
