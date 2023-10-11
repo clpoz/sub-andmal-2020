@@ -10,7 +10,7 @@ import h5py
 
 with open('datasets4.json','r') as f:
     dataconf = json.load(f)
-datadir = "C:/Users/fengshou/Desktop/生产实习/3/Malicious-CSVs"
+datadir = "${FILE_PATH}/Malicious-CSVs"
 
 ds = ["Adware","Backdoor","Banker","Dropper","FileInfector","PUA",
       "Ransomware","Riskware","Scareware","SMS","Spy","Trojan","Ben3"]
