@@ -1,0 +1,15 @@
+{
+  "Adware": [600,60],
+  "Backdoor":[600,60],
+  "Banker": [600,60],
+  "Dropper": [600,60],
+  "FileInfector":[600,60],
+  "PUA": [600,60],
+  "Ransomware": [600,60],
+  "Riskware": [600,60],
+  "Scareware": [600,60],
+  "SMS": [600,60],
+  "Spy": [600,60],
+  "Trojan": [600,60],
+   "tot": [7200,720]
+}
